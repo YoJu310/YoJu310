@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yojna Singh</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Open to Opportunities</h3>
 
-<!--
-**YoJu310/YoJu310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 BTech CSE Graduate (2025)
+- 💻 MERN Stack Developer
+- 📚 Currently improving DSA & System Design
+- 🎯 Goal: Crack a product-based company
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Postman
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
+- 💻 Portfolio: YOUR_PORTFOLIO_LINK
+
+---
+
+### ⚡ Fun Fact
+I debug faster after coffee ☕
