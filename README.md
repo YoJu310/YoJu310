@@ -23,7 +23,13 @@ I enjoy solving real-world problems through clean, efficient code and am current
 
 
 # 📊 GitHub Stats: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+# 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoJu310&show_icons=true&theme=tokyonight" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoJu310&layout=compact&theme=tokyonight" height="180em" />
+</p>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=YoJu310&show_icons=true&theme=dark&locale=en" alt="YoJu310" /></td>
