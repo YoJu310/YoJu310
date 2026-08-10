@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me
 
 I'm a **Full Stack Developer (MERN)** with hands-on experience building **scalable, real-world web applications**.
-I recently graduated with a **B.Tech in Computer Science (CGPA: 9.26)** and completed a **Full Stack Internship at Plasmid**, where I delivered production-level features impacting real users.
+I recently graduated with a **B.Tech in Computer Science (CGPA: 9.26)** and completed a **Full Stack Internship**, where I delivered production-level features impacting real users.
 
 * 🚀 Built **MERN-based platforms** with authentication, payments, and AI integrations
 * 📈 Improved user engagement by **40%** and reduced latency by **35%** through optimized architecture
