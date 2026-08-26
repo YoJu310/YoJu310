@@ -9,7 +9,6 @@ I'm a **Full Stack Developer (MERN)** with hands-on experience building **scalab
 I recently graduated with a **B.Tech in Computer Science (CGPA: 9.26)** and completed a **Full Stack Internship**, where I delivered production-level features impacting real users.
 
 * 🚀 Built **MERN-based platforms** with authentication, payments, and AI integrations
-* 📈 Improved user engagement by **40%** and reduced latency by **35%** through optimized architecture
 * 🤖 Integrated modern tools like **Google Gemini API**, **Stripe**, and **Cloudinary**
 * 🧠 Strong foundation in **DSA, DBMS, and scalable backend design**
 
